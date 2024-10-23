@@ -1,4 +1,4 @@
-import argparse, re, shutil, os
+import argparse, re, shutil
 
 # re mappings for replacement
 mappings = [
@@ -56,7 +56,6 @@ args = parser.parse_args()
 
 # make a copy of the file just in case of shenanigans
 infile = args.inputfile.name
-#print(infile)
 shutil.copy(infile, f'{infile}-bak.txt')
 
 if args.method == 'defang':
