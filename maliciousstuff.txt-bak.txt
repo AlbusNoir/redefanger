@@ -1,6 +1,0 @@
-hxxps[:]//www[.]kalecreates[.]com
-hxxp[:]//google[.]com
-fxp[:]//microsoftfxp[.]com
-123[.]123[.]123[.]123
-192[.]168[.]1[.]1
-badactor[AT]email[.]com
